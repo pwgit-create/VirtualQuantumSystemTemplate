@@ -1,0 +1,22 @@
+App Documentation
+
+------------------
+Class name: QuantumSystem
+No public methods
+Public Constructors: public QuantumSystem()
+------------------
+Class name: Qubit
+No public methods
+Public Constructors: public Qubit(QuantumSystem)
+------------------
+Class name: EntanglementOperation
+No public methods
+Public Constructors: public EntanglementOperation(QuantumSystem,Qubit)
+------------------
+Class name: LinuxX64SystemAdapter
+Public Methods: public void LinuxX64SystemAdapter.entangleQubitWithExistingOne()
+Public Constructors: public LinuxX64SystemAdapter(QuantumSystem)
+------------------
+Class name: Main
+Public Methods: public static void Main.main(java.lang.String[])
+Public Constructors: public Main()
